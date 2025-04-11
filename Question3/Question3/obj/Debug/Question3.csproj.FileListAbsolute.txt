@@ -1,0 +1,7 @@
+D:\CC lab\Question3\Question3\bin\Debug\Question3.exe.config
+D:\CC lab\Question3\Question3\bin\Debug\Question3.exe
+D:\CC lab\Question3\Question3\bin\Debug\Question3.pdb
+D:\CC lab\Question3\Question3\obj\Debug\Question3.csproj.AssemblyReference.cache
+D:\CC lab\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+D:\CC lab\Question3\Question3\obj\Debug\Question3.exe
+D:\CC lab\Question3\Question3\obj\Debug\Question3.pdb
